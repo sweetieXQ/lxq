@@ -1,54 +1,23 @@
-<header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+<p>Whether you're an experienced mechanic or a DIY enthusiast, finding your way through the world of diagnostic scan tools can be overwhelming. This guide is here to address all your questions, from selecting the best tool to understanding its features and upkeep. Whether you're making your first purchase or wanting to get the most out of your existing tool, we've got everything you need.</p>
+<h2><span class="16">General&nbsp;</span>Scan<span class="16">&nbsp;</span>Tool FAQ's:</h2>
+<h3>How Do I Know Which&nbsp;Scan&nbsp;Tool&nbsp;I Need?<b><span></span></b></h3>
+<p class="MsoNormal"><!-- [if !supportLists]--><span><span style="mso-list: Ignore;">1.&nbsp;</span></span><!--[endif]--><b><span>Specific Task on One Vehicle</span></b><span>: If you need a scan tool only for a specific task on one vehicle, a single-brand scan tool is usually the most cost-effective.</span><span></span></p>
+<p class="MsoNormal"><!-- [if !supportLists]--><span><span style="mso-list: Ignore;">2.&nbsp;</span></span><!--[endif]--><b><span>Multiple Vehicles</span></b><span>: If you need a&nbsp;tool&nbsp;for various vehicles, we recommend models like the&nbsp;</span><span><a href="https://www.obdprice.com/products/autel-maxicom-mk808bt-pro-obd2-diagnostic-tool"><u><span class="15"><span style="font-family: Calibri;">Autel MK808BT Pro</span></span></u></a></span><span></span></p>
+<p class="MsoNormal"><!-- [if !supportLists]--><span><span style="mso-list: Ignore;">3.&nbsp;</span></span><!--[endif]--><b><span>Starting Mechanics</span></b><span>: For new mechanics who need a&nbsp;tool&nbsp;for a range of vehicles, good options are the </span><span><a href="https://www.obdprice.com/products/autel-maxipro-mp900-mp900e-diagnostic-scanner"><u><span class="15">Autel MP900</span></u></a></span><span>, or </span><span><a href="https://www.obdprice.com/products/autel-maxidas-ds900-diagnostic-scanner"><u><span class="15"><span style="font-family: Calibri;">Autel DS900</span></span></u></a></span><span><span style="font-family: Calibri;">.</span></span><span></span></p>
+<p class="MsoNormal"><!-- [if !supportLists]--><span><span style="mso-list: Ignore;">4.&nbsp;</span></span><!--[endif]--><b><span>Professional Mechanics</span></b><span>: If you need a&nbsp;tool&nbsp;that can do relearns, coding, and all maintenance functions, the&nbsp;</span><span><a href="https://www.obdprice.com/products/autel-maxicom-mk906pro-ts-scanner-and-tpms-tool" title="Autel MaxiSys MS906 Pro Bi-directional Professional Scan Tool"><u><span class="15">Autel MS906 Pro</span></u></a></span><span>&nbsp;or&nbsp;</span><span><a href="https://www.obdprice.com/products/autel-maxisys-ms908s-pro-ii-diagnostic-scan-tool"><u><span class="15"><span style="font-family: Calibri;">AutelMS908s Pro2</span></span></u></a></span><span>&nbsp;</span><span>is a great choice.</span><span></span></p>
+<p class="MsoNormal"><!-- [if !supportLists]--><span><span style="mso-list: Ignore;">5.&nbsp;</span></span><!--[endif]--><b><span>Light and Heavy Vehicles</span></b><span>: For both light and heavy vehicles, the&nbsp;</span><span><a href="https://www.obdprice.com/products/autel-maxisys-ms909cv-heavy-duty-diagnostic-scanner"><u><span class="15"><span style="font-family: Calibri;">Autel MS909CV</span></span></u></a></span><span>&nbsp;</span><span>is a solid option. </span><span></span></p>
+<p class="MsoNormal"><span>&nbsp;</span></p>
+<div style="text-align: left;"><img style="margin-bottom: 16px; float: none;" alt="autel ms908s" src="https://cdn.shopify.com/s/files/1/0067/0574/1883/files/MaxiSysMS908SProII_8_559x559_37c6effe-c886-4cae-b0a8-10e3093c1d5d.webp?v=1739000079"></div>
+<h3><span class="16">What Features Should I Look for in a Diagnostic&nbsp;</span>Scan<span class="16">&nbsp;</span>Tool<span class="16">?</span><b><span></span></b></h3>
+<p class="p"><span>When selecting a diagnostic scan tool, consider these key features:</span></p>
+<ul>
+<li class="MsoNormal"><!-- [if !supportLists]--><b><span class="16">Compatibility</span></b><span>: Make sure the tool is compatible with the vehicles you plan to diagnose.</span></li>
+<li class="MsoNormal"><span></span><!-- [if !supportLists]--><b><span class="16">Functions</span></b><span>: Look for key functions like reading and clearing error codes, performing relearns, and running system tests. Verify that the tool offers the functions you need.</span><span></span></li>
+<li class="MsoNormal"><!-- [if !supportLists]--><b><span class="16">Updates</span></b><span>: Check the update policy, such as how long free updates are offered. Decide whether you prefer a tool with lifetime free updates or one that includes 1-2 years of free updates. Also, look into the cost for annual updates.</span><span></span></li>
+<li class="MsoNormal"><!-- [if !supportLists]--><b><span class="16">Ease of Use</span></b><span>: Opt for a tool with an intuitive interface and clear instructions.</span><span></span></li>
+<li class="MsoNormal"><!-- [if !supportLists]--><b><span class="16">Connectivity</span></b><span>: Consider whether you prefer a wired connection or Bluetooth. Keep in mind that Bluetooth tools are typically more expensive than wired ones.</span><span></span></li>
+</ul>
+<p class="p"><span>&nbsp;</span><span></span></p>
+<h3><span class="16">How Do I Know If My&nbsp;</span>Scan<span class="16">&nbsp;</span>Tool<span class="16">&nbsp;</span><span class="16">is Compatible with My Car's Make and Model?&nbsp;</span><b><span></span></b></h3>
+<p class="p"><span>To find out if your scan tool is compatible with your car, you can check the list of OBD2-compliant vehicles and their manufacturing years&nbsp;</span><span><a href="https://premium-diagnostics.com.au/pages/obd2-car-list" title="OBD2 Car List"><u><span class="15">here</span></u></a></span><span>.</span><span><br></span><span><br></span><span>For specific functions and vehicle compatibility, you can use the following vehicle coverage checkers:</span><span></span></p>
+<h4 class="MsoNormal"><span style="mso-list: Ignore;">&nbsp;</span><!--[endif]--><span class="16">Autel:</span>&nbsp;<a href="https://www.auteltech.com/vehicle-coverage/coverage2" title="Autel Vehicle Coverage"><u><span class="15">Vehicle Coverage</span></u></a><span></span></h4>
